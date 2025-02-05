@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" clssname="object-cover" src="https://github.com/sayed725/sayed725/blob/main/11533113.psd.png?raw=true"  />
+  <img height="200" src="https://github.com/sayed725/sayed725/blob/main/11533113.psd.png?raw=true"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="center">Professional Frontend Web Develope From Dhaka, Bangladesh</h4>
+<h3 align="center">Professional Frontend Web Developeloper From Dhaka, Bangladesh</h3>
 
 ###
 
