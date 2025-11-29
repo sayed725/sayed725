@@ -31,11 +31,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="20" />
+  <img src="https://img.shields.io/badge/TypeScript-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="20" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
   <img width="20" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  <img width="20" />
-  <img src="https://img.shields.io/badge/TypeScript-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="20" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
   <img width="20" />
@@ -87,7 +87,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>♨ Check out my portfolio and projects at https://abu-sayed-khan725.netlify.app/<br>📚 I'm currently learning ...Prisma,Go, Redux<br>💬 Ask me about Tailwind CSS, JavaScript, TypeScript, React,Next Js, Node Js, Express Js MongoDB<br>🎯 Goals: My goal for 2025 is to transition into a Full Stack Developer<br>🎲 Fun fact: I want to Sleep..</p>
+<p align="left">✨ Creating bugs since 2024<br>♨ Check out my portfolio and projects at https://abu-sayed-khan725.netlify.app/<br>📚 I'm currently learning ...Prisma,Go, Redux<br>💬 Ask me about Tailwind CSS, JavaScript, TypeScript, React js, Next Js, Node Js, Express Js MongoDB<br>🎯 Goals: My goal for 2025 is to transition into a Full Stack Developer<br>🎲 Fun fact: I want to Sleep..</p>
 
 ###
 
