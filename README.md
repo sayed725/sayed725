@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">I am a passionate Frontend Web Developer specializing in building responsive, user-centric web applications using modern technologies like React,Next Js HTML, CSS, and JavaScript. I focus on writing clean, maintainable code and delivering seamless user experiences. With a commitment to continuous learning, I stay updated with industry trends to bring innovative solutions to every project. I thrive in collaborative environments and aim to contribute to impactful digital solutions.</p>
+<p align="center">I am a passionate Frontend Web Developer specializing in building responsive, user-centric web applications using modern technologies like React, Next Js, Tailwind CSS, and JavaScript, TypeScript. I focus on writing clean, maintainable code and delivering seamless user experiences. With a commitment to continuous learning, I stay updated with industry trends to bring innovative solutions to every project. I thrive in collaborative environments and aim to contribute to impactful digital solutions.</p>
 
 ###
 
@@ -35,7 +35,7 @@
   <img width="20" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
   <img width="20" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="20" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
   <img width="20" />
@@ -85,7 +85,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>♨ Check out my portfolio and projects at https://abu-sayed-khan725.netlify.app/<br>📚 I'm currently learning ...TypeScript,NextJs, Redux<br>💬 Ask me about Html, CSS, JavaScript, React, Node Js, MongoDB<br>🎯 Goals: My goal for 2025 is to transition into a Full Stack Developer<br>🎲 Fun fact: I want to Sleep..</p>
+<p align="left">✨ Creating bugs since 2024<br>♨ Check out my portfolio and projects at https://abu-sayed-khan725.netlify.app/<br>📚 I'm currently learning ...Prisma,Go, Redux<br>💬 Ask me about Tailwind CSS, JavaScript, TypeScript, React,Next Js, Node Js, Express Js MongoDB<br>🎯 Goals: My goal for 2025 is to transition into a Full Stack Developer<br>🎲 Fun fact: I want to Sleep..</p>
 
 ###
 
