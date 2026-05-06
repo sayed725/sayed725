@@ -97,11 +97,15 @@
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="40" alt="notion logo"  />
 </div>
 
+
+<h4 align="left">About me</h2>
+
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>♨ Check out my portfolio and projects at https://abu-sayed-khan725.netlify.app/<br>📚 I'm currently learning ...Prisma,Go, Redux<br>💬 Ask me about Tailwind CSS, JavaScript, TypeScript, React js, Next Js, Node Js, Express Js MongoDB<br>🎯 Goals: My goal for 2025 is to transition into a Full Stack Developer<br>🎲 Fun fact: I want to Sleep..</p>
+<p align="left">👋 Hi, I’m @sayed<br>🖥️ I’m currently working on React.js, Next.js, Typescript and Zustand for frontend development.<br>🗄️ Using Node.js, Express.js, MongoDB, PostgreSQL, and Prisma for the backend.<br>🛠️ I’m currently learning Docker and AWS.<br>💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).<br>🌐 Explore My Portfolio TouhidCodes and My Resume<br>📝 I regularly write articles on LinkedIn<br>📫 Feel free to reach me out Email</p>
 
 ###
+
 
 <h4 align="center">Connect with me:</h4>
 
