@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">I am a passionate Full Stack Developer specializing in building responsive, user-centric web applications using modern technologies like React, Next Js, Tailwind CSS, and JavaScript, TypeScript. I focus on writing clean, maintainable code and delivering seamless user experiences. With a commitment to continuous learning, I stay updated with industry trends to bring innovative solutions to every project. I thrive in collaborative environments and aim to contribute to impactful digital solutions.</p>
+<p align="center">I’m a Full-Stack Developer who likes building web apps that are simple, fast, and easy to use. I usually work with TypeScript, React, Next.js, and Node.js, along with MongoDB, PostgreSQL, and Prisma. I try to keep my code clean and practical, and I’m always learning something new as I build.</p>
 
 ###
 
