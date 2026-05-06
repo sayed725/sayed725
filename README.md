@@ -129,6 +129,12 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/sayed725/sayed725/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sayed725.sayed725&"  />
 </div>
