@@ -130,7 +130,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sayed725/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sayed725.sayed725&"  />
 </div>
 
 ###
