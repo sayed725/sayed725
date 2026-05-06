@@ -97,15 +97,11 @@
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="40" alt="notion logo"  />
 </div>
 
-
-<h4 align="left">About me</h2>
-
 ###
 
 <p align="left">👋 Hi, I’m @sayed725 <br>🖥️ I’m currently working on React.js, Next.js, Typescript and Zustand for frontend development.<br>🗄️ Using Node.js, Express.js, MongoDB, PostgreSQL, and Prisma for the backend.<br>🛠️ I’m currently learning Docker and AWS.<br>💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).<br>🌐 Explore My PortfolioExplore My [Portfolio](https://abusayedkhan.vercel.app/)<br>📝 I regularly write articles on [LinkedIn] (https://www.linkedin.com/in/abusayedkhan725/)<br>📫 Feel free to reach me out Email</p>
 
 ###
-
 
 <h4 align="center">Connect with me:</h4>
 
