@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/sayed725/sayed725/blob/main/11533113.psd.png?raw=true"  />
+  <img height="200" src="https://github.com/sayed725/sayed725/blob/main/github_cover.png?raw=true"  />
 </div>
 
 ###
@@ -16,11 +16,11 @@
 
 ###
 
-<h3 align="center">Professional Frontend Web Developeloper From Dhaka, Bangladesh</h3>
+<h3 align="center">Professional Full Stack Developer From Dhaka, Bangladesh</h3>
 
 ###
 
-<p align="center">I am a passionate Frontend Web Developer specializing in building responsive, user-centric web applications using modern technologies like React, Next Js, Tailwind CSS, and JavaScript, TypeScript. I focus on writing clean, maintainable code and delivering seamless user experiences. With a commitment to continuous learning, I stay updated with industry trends to bring innovative solutions to every project. I thrive in collaborative environments and aim to contribute to impactful digital solutions.</p>
+<p align="center">I am a passionate Full Stack Developer specializing in building responsive, user-centric web applications using modern technologies like React, Next Js, Tailwind CSS, and JavaScript, TypeScript. I focus on writing clean, maintainable code and delivering seamless user experiences. With a commitment to continuous learning, I stay updated with industry trends to bring innovative solutions to every project. I thrive in collaborative environments and aim to contribute to impactful digital solutions.</p>
 
 ###
 
