@@ -102,7 +102,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @sayed<br>🖥️ I’m currently working on React.js, Next.js, Typescript and Zustand for frontend development.<br>🗄️ Using Node.js, Express.js, MongoDB, PostgreSQL, and Prisma for the backend.<br>🛠️ I’m currently learning Docker and AWS.<br>💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).<br>🌐 Explore My Portfolio TouhidCodes and My Resume<br>📝 I regularly write articles on LinkedIn<br>📫 Feel free to reach me out Email</p>
+<p align="left">👋 Hi, I’m @sayed<br>🖥️ I’m currently working on React.js, Next.js, Typescript and Zustand for frontend development.<br>🗄️ Using Node.js, Express.js, MongoDB, PostgreSQL, and Prisma for the backend.<br>🛠️ I’m currently learning Docker and AWS.<br>💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).<br>🌐 Explore My Portfolio [abusayedkhan] (https://abusayedkhan.vercel.app/) and [My Resume](https://drive.google.com/file/d/1PmvV2Qvc91vln-PNYMysX0BeczAh4Hlo/view?usp=sharing)<br>📝 I regularly write articles on [LinkedIn] (https://www.linkedin.com/in/abusayedkhan725/)<br>📫 Feel free to reach me out Email</p>
 
 ###
 
