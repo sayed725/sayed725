@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="center">Professional Full Stack Developer From Dhaka, Bangladesh</h3>
+<h3 align="center">Full Stack Developer From Dhaka, Bangladesh</h3>
 
 ###
 
